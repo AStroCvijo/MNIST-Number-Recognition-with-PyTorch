@@ -1,1 +1,3 @@
-# MNIST-Number-Recognition-with-PyTorch
+# MNIST Number Recognition with PyTorch
+
+This project demonstrates a simple CNN model for recognizing handwritten digits from the MNIST dataset using PyTorch.
